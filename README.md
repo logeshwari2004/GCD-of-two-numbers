@@ -21,21 +21,22 @@ Developed by:
 RegisterNumber:  
 */
 ```
-n1=int(input())
-n2=int(input())
 def gcd():
-    if (n1>n2):
-       small=n2
+    n1=int(input())
+    n2=int(input())
+    if(n1>n2):
+        smaller=n2
     else:
-        small=n1
-    for i in range(1,small+1):
-        if (n1%i==0 and n2%==0):
-            a=i
-        print("GCD of two numbers is:",a)
+        smaller=n1
+    for i in range(1,smaller+1):
+        if(n1%i==0 and n2%i==0):
+            gcd=i
+    print("GCD of two numbers is:",gcd)
+
 
 
 ## Output:
-![gcd of two numbers](EX04OUTPUT.jpeg) 
+![output](gcdoutput1.png)
 
 
 ## Result:
