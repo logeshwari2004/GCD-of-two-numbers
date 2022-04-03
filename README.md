@@ -8,17 +8,17 @@ To write a program to find the GCD of two numbers using function.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. Define a function.
-2. Get the two numbers from the user.
-3. Compare the two values, to find the smaller number.
-4. Use for() and if() loop to find the GCD of the two numbers.
+1. Define a function
+2. Get the two number from the user.
+3. compare the leat value to ## Result:
+Thus the program to find the maximum of given numbers from the list is written and verified using python programming. 
 
 ## Program:
 ```
 /*
 Program to find the gcd of two number using function.
-Developed by: 
-RegisterNumber:  
+Developed by:logeshwari.p 
+RegisterNumber: 212221230055 
 */
 ```
 def gcd():
